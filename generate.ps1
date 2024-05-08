@@ -114,8 +114,8 @@ function makeProfile {
     [array]::Reverse($init)
     
     # Output to modlist.txt
-    New-Item -Path "$dir/profiles/test/modlist.txt" -ItemType File -Force | Out-Null
-    $init | Set-Content "$dir/profiles/test/modlist.txt"
+    New-Item -Path "$dir/profiles/default/modlist.txt" -ItemType File -Force | Out-Null
+    $init | Set-Content "$dir/profiles/default/modlist.txt"
     Write-Output "`nCreated modlist.txt"
 }
 
