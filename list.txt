@@ -1,0 +1,192 @@
+; Example File - See the end product here: https://www.nexusmods.com/fallout4/mods/79363
+; To create headers, start with '!'
+; Invalid Characters: '+' '! '
+
+! Official Content
+DLC
+DLC Edits
+Creation Club
+Creation Club Edits
+
+! Utilities
+Resources & Frameworks
+Game Engine Tweaks
+Script Extender Plugins
+Bug Fixes
+Optimization
+QOL Tweaks
+Modders Resources
+Tools
+
+! Visuals
+Mesh & Texture Fixes
+Mesh Overhauls
+Texture Overhauls
+Landscape
+Flora (Trees, Grass, Foliage)
+Fauna (Creatures)
+Architecture
+Furniture
+Armoury (Weapons, Armor, Clothing)
+Consumables (Food, Ingredients, Chems)
+Clutter
+
+! Interface
+Console
+Main Menu
+Loading Screen
+HUD
+HUD - Dialogue
+HUD - Pip-Boy
+Inventory - Menu
+Inventory - Sorting
+Maps
+Settings Menu
+Settings Menu - Mod Configuration Menu (MCM)
+Camera
+Controls
+
+! Audio
+Sound Effects (SFX)
+Voice
+Music
+Radio
+Ambience
+
+! Armory
+Armor & Clothing - Edits
+New Armor & Clothing
+Weapons - Edits
+New Weapons
+Power Armor - Edits
+New Power Armor
+Accessories - Edits
+New Accessories
+
+! Locations
+Multi-Location Overhauls
+Concord
+Medford
+Salem
+Weston
+Cambridge
+Boston
+Boston Airport
+South Boston
+Quincy
+Natick & The Glowing Sea
+Far Harbor Locations
+Nuka World Locations
+Modded Location Edits
+Misc. Exteriors
+Misc. Interiors
+Player Homes
+
+! Quest System
+Quest System
+New Quests - DLC Sized
+New Quests
+Quest Edits
+Quest Expansions
+
+! NPCs
+NPC Behavior
+NPC Behavior - Follower
+New NPCs
+NPC Edits
+New Factions
+Faction Edits
+New Creatures
+Creature Edits
+Dialogue
+
+! Appearance
+Skeletons & Body
+Races
+Physics
+Head
+Skin
+Eyes
+Hair
+Makeup
+LooksMenu Presets
+Children
+Creatures
+NPC Overhauls
+
+! Gameplay
+Economy
+Item Effects
+Perks & Leveling
+Balancing
+Survival Mechanics
+Leveled Lists & Item Distribution
+Combat
+Stealth
+Immersion
+Misc. Gameplay
+
+! Settlements
+Settlement System
+Settlement Edits
+New Settlements
+Settlement Objects - Packs
+Settlement Objects
+
+! Crafting
+Crafting System
+Crafting Stations
+Crafting Recipes
+Crafting Components
+Cooking Recipes
+Cooking Ingredients
+Automatron Blueprints
+Automatron Components
+
+! Animation
+Animation & Behavior Engine
+Combat Animations
+Movement
+Interactions
+Idles
+Poses
+Misc. Animations
+
+! Atmosphere
+ENB & Reshade
+Visual Effects
+Particles
+Fire & Ash
+Water
+Ice & Snow
+Item Effects
+Misc. Effects
+Lighting
+Weather
+Sky
+
+! NSFW
+Resources & Frameworks
+Poses
+Animations
+Gameplay Tweaks
+Quests
+Roleplay
+Character Appearance
+Outfits
+Settlement Objects
+Items
+Textures and Meshes
+Audio
+Misc. NSFW
+
+! Late Loaders
+LOD Mods (FO4LODGen)
+Late Textures
+Patches
+Translations
+Bodyslide Conversions
+Tool Outputs
+Misc. Late Loader
+
+! Unsorted
