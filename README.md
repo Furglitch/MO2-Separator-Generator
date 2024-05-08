@@ -20,7 +20,6 @@
 -->
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
 
 
 
@@ -88,5 +87,3 @@ Distributed under the Unlicense License. See `LICENSE` for more information.
 [forks-url]: https://github.com/Furglitch/MO2-Separator-Generator/network/members
 [issues-shield]: https://img.shields.io/github/issues/Furglitch/MO2-Separator-Generator.svg?style=for-the-badge
 [issues-url]: https://github.com/Furglitch/MO2-Separator-Generator/issues
-[license-shield]: https://img.shields.io/github/license/Furglitch/MO2-Separator-Generator.svg?style=for-the-badge
-[license-url]: https://github.com/Furglitch/MO2-Separator-Generator/blob/master/LICENSE
